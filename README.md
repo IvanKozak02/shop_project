@@ -1,0 +1,3 @@
+In this small project I`ve learnt advanced ways to manage state in React using Context API and also useReducer() hook. 
+It was cool!!!
+I`m excited and eager to learn... 
